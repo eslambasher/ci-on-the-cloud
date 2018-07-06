@@ -1,0 +1,4 @@
+{
+  "Commandes" : "npm install && npm start",
+  "logs" : "node.log"
+}
